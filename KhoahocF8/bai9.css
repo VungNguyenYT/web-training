@@ -1,0 +1,9 @@
+.TestCSS2{
+    width: 70px;
+    height: 60px;
+
+    padding: 1%;
+
+    color: white;
+    background-color: red;
+}
